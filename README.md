@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.imgur.com/IWGBiPe.gif))
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 <!--
 **JohanneJayde/JohanneJayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

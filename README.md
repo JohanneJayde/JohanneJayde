@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://i.imgur.com/IWGBiPe.gif)
 
 

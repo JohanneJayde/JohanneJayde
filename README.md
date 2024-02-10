@@ -1,3 +1,12 @@
-### Currently working on programming Perceptron Learning Algorithm and Z Space Transform
+### Current Classes
+1. .Net Programming (CSCD371)
+2. Machine Learning (CSCD484)
+3. Big Data Analytics (CSCD430)
+4. Senior Capstone (CSCD490)
 
-<p align="center"> <img src="https://i.imgur.com/IWGBiPe.gif" alt="animated" /> </p>
+### Current Clubs:
+1. Association for Computer Machinery (President)
+2. Asian Student Association (Treasurer)
+
+
+

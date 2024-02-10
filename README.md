@@ -8,5 +8,8 @@
 1. Association for Computer Machinery (President)
 2. Asian Student Association (Treasurer)
 
+### Current Projects:
+1. Geospatial Visualization Tool Notification System for Fairchild AFB
+
 
 

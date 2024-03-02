@@ -12,7 +12,7 @@
 1. Geospatial Visualization Tool Notification System for Fairchild AFB
 2. B Plus Tree Visualizer Using Java Swing
 
-#### Projects that I Contributed to but are not owned by me
+#### Other school projects that I do not own the repo of:
 [CSCD378 Web Developement Project](https://github.com/OceanOestreicher/WebDevelopment)
 <br>
 [CSCD350 SpotList](https://github.com/gknutson1/SpotList-web-legacy)

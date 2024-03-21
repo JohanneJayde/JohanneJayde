@@ -1,16 +1,14 @@
 ### Current Classes
-1. .Net Programming (CSCD371)
-2. Machine Learning (CSCD484)
-3. Big Data Analytics (CSCD430)
-4. Senior Capstone (CSCD490)
+1. .Net Web Development (CSCD379)
+2. Deep Learning (CSCD485)
+3. Earth's Climate and Weather (GEO113)
 
 ### Current Clubs:
 1. Association for Computer Machinery (President)
 2. Asian Student Association (Treasurer)
 
 ### Current Projects:
-1. Geospatial Visualization Tool Notification System for Fairchild AFB
-2. B Plus Tree Visualizer Using Java Swing
+1. B Plus Tree Visualizer Using Java Swing
 
 #### Other school projects that I do not own the repo of:
 [CSCD378 Web Developement Project](https://github.com/OceanOestreicher/WebDevelopment)

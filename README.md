@@ -9,6 +9,7 @@
 
 ### Current Projects:
 1. B Plus Tree Visualizer Using Java Swing
+2. Personal Website using Nuxt3 + Vuetify
 
 #### Other school projects that I do not own the repo of:
 [CSCD378 Web Developement Project](https://github.com/OceanOestreicher/WebDevelopment)

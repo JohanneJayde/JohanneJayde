@@ -6,11 +6,7 @@
 ### Current Clubs:
 1. Association for Computer Machinery (President)
 2. Asian Student Association (Treasurer)
-
-### Current Projects:
-1. B Plus Tree Visualizer Using Java Swing
-2. Personal Website using Nuxt3 + Vuetify
-
+3. 
 #### Other school projects that I do not own the repo of:
 [CSCD378 Web Developement Project](https://github.com/OceanOestreicher/WebDevelopment)
 <br>
